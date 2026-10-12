@@ -55,5 +55,9 @@ A Python-based language translation web application built with Streamlit. Users 
 Task 1 — Language Translation Tool
 CodeAlpha Artificial Intelligence Internship
 
+## Learning Progress
+
+This project helped me learn Git, GitHub, Python dependencies, and project documentation.
+
 ## Author
 Ayush Kumar Singh
